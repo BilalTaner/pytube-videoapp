@@ -13,7 +13,7 @@ pip install PyQt5
 ## Usage
 #### First open the app:
 <p align="center">
-  <img src="https://prnt.sc/1186sej" width="350">
+  <img src="https://image.prntscr.com/image/AB4Iaz0vRB_djYw0OjSOgw.png" width="350">
 </p>
 
 
