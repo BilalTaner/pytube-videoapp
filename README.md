@@ -1,6 +1,6 @@
 # Python video downloader with pytube
 
-Video downloader in python with pytube module
+Video downloader in python with pytube module (Supports Playlist Links)
 
 ## Installation
 
