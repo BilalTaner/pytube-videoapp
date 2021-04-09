@@ -12,7 +12,7 @@ pip install PyQt5
 ```
 ## Usage
 First open the app:
-<img src = "https://prnt.sc/1186sej">
+![App Main Menu](https://prnt.sc/1186sej)
 
 
 ## License
