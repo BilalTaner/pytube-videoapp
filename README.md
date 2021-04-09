@@ -10,6 +10,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pytube 
 pip install pytube
 pip install PyQt5
 ```
+## Usage
+First open the app:
+<img src = "https://prnt.sc/1186sej">
 
 
 ## License
