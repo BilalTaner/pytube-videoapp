@@ -25,7 +25,7 @@ pip install PyQt5
 </p>
 4-) Press Download button, choose where to download and wait:
 <p>
-  <img src="https://image.prntscr.com/image/tXZU4VMCQgOYYwzOybVgNg.png">
+  <img src="https://image.prntscr.com/image/tXZU4VMCQgOYYwzOybVgNg.png" width="350">
 </p>
 5-) When the file is downloaded, press the refresh app button and download it again.:
 <p>
