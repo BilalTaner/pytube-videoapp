@@ -13,7 +13,7 @@ pip install PyQt5
 ## Usage
 #### First open the app:
 <p align="center">
-  <img src="https://prnt.sc/1186sej" width="350" alt="accessibility text">
+  <img src="https://prnt.sc/1186sej" width="350">
 </p>
 
 
