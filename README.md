@@ -7,8 +7,7 @@ Video downloader in python with pytube module (Supports Playlist Links)
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pytube and PyQt5.
 
 ```bash
-pip install pytube
-pip install PyQt5
+pip3 install -r requirements.txt
 ```
 ## Usage
 1-) Open the app:
